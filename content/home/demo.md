@@ -1,4 +1,4 @@
-+++
+<!-- +++
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -63,3 +63,4 @@ This homepage section is an example of adding [elements](https://sourcethemes.co
 
 Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
 {{% /alert %}}
+ -->

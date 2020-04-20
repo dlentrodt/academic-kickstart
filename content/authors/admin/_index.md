@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dominik Lentrodt
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Max Planck Institute for Nuclear Physics, Heidelberg
+  url: "https://www.mpi-hd.mpg.de/mpi/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests center around theoretical and experimental developments for X-ray quantum optics.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Photonics
+- Open quantum systems
+- X-ray and nuclear quantum optics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Physics (in progress)
+    institution: Max Planck Institute for Nuclear Physics
+    year:
+  - course: 4+4 Masters Program
+    institution: Heidelberg Graduate School for Fundamental Physics, Heidelberg University
+    year: 2017
+  - course: MSc and BA in Natural Sciences
+    institution: University of Cambridge, UK
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:dominik.lentrodt@mpi-hd.mpg.de"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/DLentrodt
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=_l-iYhkAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/dlentrodt
+- icon: arxiv
+  icon_pack: ai
+  link: https://arxiv.org/a/lentrodt_d_1.html
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7400-9575
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +76,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/keitel/evers/) of [Jörg Evers](https://www.mpi-hd.mpg.de/personalhomes/evers/) in the [theory division](https://www.mpi-hd.mpg.de/keitel/) lead by Christoph H. Keitel at the Max Planck Institute for Nuclear Physics in Heidelberg. I am interest in quantum optics and photonics both on the theoretical and the experimental side.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In my current research, I develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.
+
+
