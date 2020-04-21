@@ -1,10 +1,10 @@
 ---
-title: "Ab Initio Few-Mode Theory for Quantum Potential Scattering Problems"
+title: "Ab initio few-mode theory for quantum potential scattering problems"
 authors:
 - admin
 - Jörg Evers
 date: "2020-01-13T00:00:00Z"
-doi: ""
+doi: "10.1103/PhysRevX.10.011008"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-20T00:00:00Z"
@@ -19,7 +19,7 @@ profile: false
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review X*, **10**, 011008"
+publication: "*Physical Review X* **10**, 011008"
 publication_short: ""
 
 abstract: Few-mode models are a cornerstone of the theoretical work in quantum optics, with the famous single-mode Jaynes-Cummings model being only the most prominent example. In this work, we develop an *ab initio* few-mode theory, a framework connecting few-mode system-bath models to *ab initio* methods. We first present a method to derive exact few-mode Hamiltonians for noninteracting quantum potential scattering problems and demonstrate how to rigorously reconstruct the scattering matrix from such few-mode Hamiltonians. We show that, upon inclusion of a background scattering contribution, an *ab initio* version of the well-known input-output formalism is equivalent to standard scattering theory. On the basis of these exact results for noninteracting systems, we construct an effective few-mode expansion scheme for interacting theories, which allows us to extract the relevant degrees of freedom from a continuum in an open quantum system. As a whole, our results demonstrate that few-mode as well as input-output models can be extended to a general class of problems and open up the associated toolbox to be applied to various platforms and extreme regimes. We outline differences of the *ab initio* results to standard model assumptions, which may lead to qualitatively different effects in certain regimes. The formalism is exemplified in various simple physical scenarios. In the process, we provide a proof of concept of the method, demonstrate important properties of the expansion scheme, and exemplify new features in extreme regimes.

@@ -76,9 +76,9 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/keitel/evers/) of [Jörg Evers](https://www.mpi-hd.mpg.de/personalhomes/evers/) in the [theory division](https://www.mpi-hd.mpg.de/keitel/) lead by Christoph H. Keitel at the Max Planck Institute for Nuclear Physics in Heidelberg. I am interest in quantum optics and photonics both on the theoretical and the experimental side.
+I am a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/keitel/evers/) of [Jörg Evers](https://www.mpi-hd.mpg.de/personalhomes/evers/) in the [theory division](https://www.mpi-hd.mpg.de/keitel/) lead by [Christoph H. Keitel](https://www.mpi-hd.mpg.de/keitel/HomepageCHK.html) at the Max Planck Institute for Nuclear Physics in Heidelberg. I am interested in quantum optics and photonics both on the theoretical and on the experimental side.
 
 In my current research, I mainly develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.
 
-In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish nuclear cavity QED as a new platform.
+In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as a new platform.
 
