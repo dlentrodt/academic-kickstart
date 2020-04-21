@@ -1,4 +1,4 @@
-<!-- +++
++++
 # A Featured Publications section created with the Featured Content widget.
 # This section displays publications from `content/publication/` which have
 # `featured = true` in their front matter.
@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Featured Publications"
-subtitle = ""
+title = "Research highlights"
+subtitle = "<a href='/publication/'>See all publications</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -22,7 +22,7 @@ subtitle = ""
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -66,4 +66,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
- -->

@@ -18,7 +18,7 @@ organizations:
   url: "https://www.mpi-hd.mpg.de/mpi/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests center around theoretical and experimental developments for X-ray quantum optics.
+bio: '' # My research interests center around theoretical and experimental developments for X-ray quantum optics.
 
 interests:
 - Photonics
