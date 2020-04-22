@@ -10,7 +10,7 @@ date: "2020-04-19T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'A schematic setup for X-ray cavity QED with ultra-narrow resonances. Image from [our preprint](/publication/lentrodt2020b_preprint).'
   focal_point: Smart
 
 links:

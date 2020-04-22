@@ -9,7 +9,7 @@ date: "2020-04-19T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'How to reduce a structured continuum to a few modes?'
   focal_point: Smart
 
 links:

@@ -1,6 +1,6 @@
 ---
 title: Coherent control
-summary: Experimental work on how to coherently control X-rays and nuclei
+summary: Large scale facility experiments on how to coherently control X-rays and nuclei
 tags:
 - Experiment
 date: "2020-04-16T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2020-04-16T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 'Spectral redistribution of hard X-ray photons. Image credit: [**Jörg Evers**](https://www.mpi-hd.mpg.de/personalhomes/evers/)'
   focal_point: Smart
 
 links:
