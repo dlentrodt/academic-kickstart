@@ -80,5 +80,5 @@ I am a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/kei
 
 In my current research, I mainly develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.
 
-In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as a new platform.
+In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as new platforms.
 
