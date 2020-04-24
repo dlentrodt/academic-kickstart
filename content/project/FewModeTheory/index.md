@@ -3,7 +3,7 @@ title: Open quantum systems theory
 summary: The multi-mode Jaynes-Cummings model and input-output theory go ab initio.
 tags:
 - Theory
-date: "2020-04-19T00:00:00Z"
+date: "2020-04-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
