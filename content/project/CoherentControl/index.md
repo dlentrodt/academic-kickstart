@@ -1,5 +1,5 @@
 ---
-title: Coherent control
+title: Coherent control with X-rays
 summary: Large scale facility experiments on how to coherently control X-rays and nuclei
 tags:
 - Experiment
@@ -30,4 +30,13 @@ url_video: ""
 slides: []
 ---
 
-Description in progress...
+Operating nuclear X-ray quantum systems is challenging, due to the extreme scales involved. In recent years, the availability of large scale X-ray facilities has kicked of a "source-driven revolution" [cite], with many X-ray photons and excellent beam quality being available. However, this is where the ultra-narrow resonances become a challenge, since even a very well monochromatized X-ray beam is orders of magnitude broader than the transition linewidth, such that only few photons excite the transition.
+
+To overcome this challenge and to be able to employ concepts from visible quantum optics, it is necessary to develop novel control techniques and optimized setups. X-ray cavity QED (see project) is one avenue in this direction. Another avenue is coherent control, which is a paradigm across the optical sciences (cite).
+
+As an example, we designed a setup where a broad spectrum from an X-ray source is "sharpened" by shoveling photons from unimportant parts of the spectrum onto the resonance energy (see paper and figure). The basic idea is to use forward scattering and a mechanical "digger" given by a piezo-electric transducer, whose motion can be controlled. This idea of spectral shaping in the hard X-ray domain may find broad applications with ultra-narrow resonances to increase photon count rate by at least an order of magnitude, which may make new experiments possible.
+
+In follow-up experiments, we taking this idea one step further. In a recent preprint (link), we demonstrate how these concepts can be employed for coherent x-ray optical control of nuclear dynamics. A multi-dimensional detection technique allows us to track the nuclear excitation and to contol it subsequently via the piezo motion. In nuclear resonance scattering, this constitutes a paradigm shift away from characterization and optimization of the light field to nuclear observables. As an interesting side-note, our experiment broke the previous world-record (cite) for interferometric stability in the time-domain, as measured by the so called Allan deviation (cite).
+
+In these experiments, the main protagonists are Kilian P. Heeg and my PhD supervisor Jörg Evers. I contribute to conduction of the experiments and through developing Bayesian data analysis tools to interpret the results.
+

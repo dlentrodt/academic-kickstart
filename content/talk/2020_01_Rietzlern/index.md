@@ -1,27 +1,21 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Ab initio few-mode theory
+event: 41st EAS conference
+event_url: "https://www.pks.mpg.de/~eas/#"
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Rietzlern, Austria
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Invited conference talk at the 41st EAS conference
+# abstract: "The concept of a few modes of the electromagnetic field interacting with matter is a paradigm inthe field of light-matter interactions. For example, the single mode Jaynes-Cummings model and itsmany generalisations, such as the many-body Dicke model, have been indispensable tools in studying open light-matter quantum dynamics. In particular in cavity and circuit  QED,  where  stronglight-matter coupling is routinely achieved in experiment, such models have been tremendously suc-cessful.  Recently, however, various experimental platforms have emerged where multi-mode effects,complex environments and the openness of the system constitute an essential part of the physics.Consequently, the applicability of few-mode models has been debated in these extreme regimes oflight-matter interaction. In this talk, I will present ”ab initio few-mode theory”,  which allows toinclude new physics into few-mode models without abandoning their conceptual and computationalsimplicity. I will outline practical implications for various fields featuring extreme light-matter in-teractions,  including  multi-mode  strong  coupling  and  ultra-strong  coupling  physics  as  well  as  theemerging platform of nuclear many-body cavity QED and X-ray quantum optics."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
-all_day: false
+date: "2020-01-29" # T11:50:00Z
+# date_end: "2030-06-01T15:00:00Z"
+all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-04-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -34,10 +28,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
 url_slides: ""

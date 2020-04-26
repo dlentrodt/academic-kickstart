@@ -45,4 +45,6 @@ A big part of my PhD research has been to see how far modern X-ray sources can t
 
 One exciting platform to investigate these questions is nuclear cavity QED, where the interaction between X-rays and nuclei is enhanced by a thin-film material stack (see figure), which in effect behaves much like a Fabry-Perot cavity in the optical regime. One can achieve strong collective effects in this setup, which have already been investigated extensively (refs) in the semi-classical sector at low excitations. The idea here is that in addition to the astonishing development in X-ray source technology of the last decades, we will also require control techniques and tailored systems to make progress.
 
-The main goal of answering the questions above is to see if we can achieve quantum effects, which would provide a completely new platform for quantum dynamics with extreme transitions. At the same time, quantum effects could be used to improve the many existing applications of these systems, ranging from materials science to metrology.
+The main goal of answering the questions above is to see if we can achieve quantum effects, which would provide a completely new platform for quantum dynamics with extreme transitions. At the same time, quantum effects could be used to improve the many existing applications of these systems, ranging from materials science to metrology. I develop theoretical methods to answer these questions and also contribute to and performe experiments at large scale X-ray facilities to investigate the effects that we find.
+
+
