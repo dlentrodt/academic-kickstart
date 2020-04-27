@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent talks"
-subtitle = "<a href='/files/cv.pdf'>Full list see CV</a><br><a href='/talk/'>Selected slides and posters</a>"
+subtitle = "<a href='/files/cv.pdf'>Full talk and poster list see CV</a><br><a href='/talk/'>Selected slides and posters</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
