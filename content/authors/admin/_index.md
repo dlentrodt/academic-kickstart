@@ -51,9 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_l-iYhkAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/dlentrodt
+# - icon: github
+#   icon_pack: fab
+#   link: https://github.com/dlentrodt
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/a/lentrodt_d_1.html
@@ -62,9 +62,9 @@ social:
   link: https://orcid.org/0000-0001-7400-9575
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
