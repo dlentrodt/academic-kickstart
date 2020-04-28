@@ -51,5 +51,5 @@ External references
 Related publications
 --------------------
 
-[[a] K. P. Heeg et al. *Science* **357**, 375 (2017)](/publication/heeg2017_science)   
-[[b] K. P. Heeg et al. *arXiv:2003.03755* (2020)](/publication/heeg2020_preprint)
+[[a] K. P. Heeg et al. *Science* **357**, 375 (2017)]({{< ref "/publication/heeg2017_science/index.md" >}})   
+[[b] K. P. Heeg et al. *arXiv:2003.03755* (2020)]({{< ref "/publication/heeg2020_preprint/index.md" >}})

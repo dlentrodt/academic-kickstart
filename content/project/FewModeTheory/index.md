@@ -49,5 +49,5 @@ External references
 Related publications
 --------------------
 
-[[a] D. Lentrodt and J. Evers, *Phys. Rev. X* **10**, 011008 (2020)](/publication/lentrodt2020a_prx)  
-[[b] D. Lentrodt et al. *arXiv:2003.13859* (2020)](/publication/lentrodt2020b_preprint)
+[[a] D. Lentrodt and J. Evers, *Phys. Rev. X* **10**, 011008 (2020)]({{< ref "/publication/lentrodt2020a_prx/index.md" >}})  
+[[b] D. Lentrodt et al. *arXiv:2003.13859* (2020)]({{< ref "/publication/lentrodt2020b_preprint/index.md" >}})

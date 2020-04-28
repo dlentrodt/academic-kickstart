@@ -28,10 +28,10 @@ interests:
 education:
   courses:
   - course: PhD in Physics (in progress)
-    institution: Max Planck Institute for Nuclear Physics
+    institution: Max Planck Institute for Nuclear Physics, Heidelberg
     year:
   - course: 4+4 Masters Program
-    institution: Heidelberg Graduate School for Fundamental Physics, Heidelberg University
+    institution: Heidelberg Graduate School for Fundamental Physics and Max Planck Institute for Nuclear Physics, Heidelberg
     year: 2017
   - course: MSc and BA in Natural Sciences
     institution: University of Cambridge, UK

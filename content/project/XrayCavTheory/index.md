@@ -44,7 +44,7 @@ A big part of my PhD research is to find out how far modern X-ray sources can ta
 - How to detect quantum effects and correlations in the X-ray light?
 - How to obtain nuclear observables?
 
-One exciting platform to investigate these questions is nuclear cavity QED, where the interaction between X-rays and nuclei is enhanced by a thin-film material stack (see figure), which in effect behaves much like a Fabry-Perot cavity in the optical regime. One can achieve collective effects in this setup, which have already been investigated extensively in the semi-classical sector at low excitations [3-9]. The idea here is that in addition to the astonishing development in X-ray source technology of the last decades, we will also require [control techniques](/project/coherentcontrol) and tailored systems to make progress.
+One exciting platform to investigate these questions is nuclear cavity QED, where the interaction between X-rays and nuclei is enhanced by a thin-film material stack (see figure), which in effect behaves much like a Fabry-Perot cavity in the optical regime. One can achieve collective effects in this setup, which have already been investigated extensively in the semi-classical sector at low excitations [[3-9]](#external-references). The idea here is that in addition to the astonishing development in X-ray source technology of the last decades, we will also require [control techniques](/project/coherentcontrol) and tailored systems to make progress.
 
 The main goal of answering the questions above is to see if we can achieve quantum effects, which would provide a completely new platform for quantum dynamics with extreme transitions. At the same time, quantum effects could be used to improve the many existing applications of these systems, ranging from materials science to metrology. I develop theoretical methods to answer these questions and also contribute to and performe experiments at large scale X-ray facilities to investigate the effects that we find.
 
@@ -63,6 +63,6 @@ External references
 Related publications
 --------------------
 
-[K. P. Heeg et al. *Science* **357**, 375 (2017)](/publication/heeg2017_science)  
-[D. Lentrodt et al. *arXiv:2003.13859* (2020)](/publication/lentrodt2020b_preprint)
+[K. P. Heeg et al. *Science* **357**, 375 (2017)]({{< ref "/publication/heeg2017_science/index.md" >}})  
+[D. Lentrodt et al. *arXiv:2003.13859* (2020)]({{< ref "/publication/lentrodt2020b_preprint/index.md" >}})
 
