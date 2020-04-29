@@ -8,13 +8,16 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent talks"
-subtitle = "<a href='/files/cv.pdf'>Full list see CV</a><br><a href='/talk/'>Selected slides and posters</a>"
+subtitle = "<a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/files/cv.pdf'>Full list see CV</a><br><a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/talk/'>Selected slides and posters</a>"
+#subtitle = "{{% staticref 'files/cv.pdf' 'newtab' %}}Download my CV{{% /staticref %}}"
+#subtitle = "[A project](/index.md)"
+#subtitle = "[Hello]({{< ref '/publication/heeg2017_science/index.md' >}})"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
-  # Choose how much pages you would like to display (0 = all pages)
+  # Choose how many pages you would like to display (0 = all pages)
   count = 3
   
   # Choose how many pages you would like to offset by
