@@ -8,8 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent talks"
-# subtitle = "<a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/files/cv.pdf'>Full list see CV</a><br><a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/talk/'>Selected slides and posters</a>"
-subtitle = "<a href='/files/cv.pdf'>HelloHello</a><br><a href='/talk/'>Selected slides and posters</a>"
+subtitle = "<a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/files/cv.pdf'>Full list see CV</a><br><a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/talk/'>Selected slides and posters</a>"
+# subtitle = "<a href='/files/cv.pdf'>Full list see CV</a><br><a href='/talk/'>Selected slides and posters</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
