@@ -8,7 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "<a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/publication/'>Full publication list</a>"
+#subtitle = "<a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/publication/'>Full publication list</a>"
+subtitle = "<a href='/publication/'>Full publication list</a>"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
