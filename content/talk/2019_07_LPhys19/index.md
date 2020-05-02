@@ -41,8 +41,8 @@ url_video: ""
 slides: ""
 
 links:
-# - name: Slides (pdf)
-#   url: files/presentations/talks/talk_lphys19_seminar7.pdf
+- name: Slides (pdf)
+  url: files/presentations/talks/lentrodt_lphys19_seminar1_website.pdf
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

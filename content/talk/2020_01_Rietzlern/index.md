@@ -40,6 +40,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 
+links:
+- name: Slides (pdf)
+  url: files/presentations/talks/talk_eas41_website.pdf
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
