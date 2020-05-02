@@ -5,7 +5,7 @@ event_url: "https://sites.google.com/view/mbcqed2020/home"
 
 location: Aspen, Colorado, USA
 
-summary: Poster for the Many-Body Cavity QED 2020 Conference (cancelled due to Covid-19 crisis)
+summary: Poster for the Many-Body Cavity QED 2020 Conference (cancelled due to the COVID-19 crisis)
 # abstract: ""
 
 # Talk start and end times.
