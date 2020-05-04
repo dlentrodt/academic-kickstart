@@ -1,6 +1,6 @@
 ---
 title: Selected slides and posters
-subtitle: <a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/files/cv.pdf'>Full list see CV</a>
+subtitle: <a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/files/cv.pdf'>Full presentation list see CV</a>
 
 # View.
 #   1 = List
