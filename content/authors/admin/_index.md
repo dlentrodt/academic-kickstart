@@ -18,7 +18,7 @@ organizations:
   url: "https://www.mpi-hd.mpg.de/mpi/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: '' # My research interests center around theoretical and experimental developments for X-ray quantum optics.
+bio: '' # My research interests center around theory and experiments for X-ray quantum optics with M\"ossbauer nuclei.
 
 interests:
 - Photonics
@@ -78,7 +78,7 @@ user_groups:
 
 I am a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/correlated-and-x-ray-quantum-dynamics) of [Jörg Evers](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/people/joerg-evers) in the [theory division](https://www.mpi-hd.mpg.de/keitel/) lead by [Christoph H. Keitel](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/people/christoph-h-keitel-director) at the Max Planck Institute for Nuclear Physics in Heidelberg. I am interested in quantum optics and photonics both on the theoretical and on the experimental side.
 
-In my current research, I mainly develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.
+# In my current research, I mainly develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.
 
-In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as new platforms.
+# In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as new platforms.
 
