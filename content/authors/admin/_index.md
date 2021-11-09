@@ -10,26 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral student
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: Max Planck Institute for Nuclear Physics, Heidelberg
-  url: "https://www.mpi-hd.mpg.de/mpi/en/"
+- name: University of Freiburg
+  url: "https://www.quantum.uni-freiburg.de/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: '' # My research interests center around theory and experiments for X-ray quantum optics with M\"ossbauer nuclei.
+bio: '' # My research interests center around theoretical and experimental developments for X-ray quantum optics.
 
 interests:
+- Cavity QED
 - Photonics
 - Open quantum systems
 - X-ray and nuclear quantum optics
 
 education:
   courses:
-  - course: PhD in Physics (in progress)
+  - course: Georg H. Endress postdoctoral fellow
+    institution: University of Freiburg
+    year: 
+  - course: PhD in Physics
     institution: Max Planck Institute for Nuclear Physics, Heidelberg
-    year:
+    year: 2021
   - course: 4+4 Masters Program
     institution: Heidelberg Graduate School for Fundamental Physics and Max Planck Institute for Nuclear Physics, Heidelberg
     year: 2017
@@ -76,9 +80,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/correlated-and-x-ray-quantum-dynamics) of [Jörg Evers](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/people/joerg-evers) in the [theory division](https://www.mpi-hd.mpg.de/keitel/) lead by [Christoph H. Keitel](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/people/christoph-h-keitel-director) at the Max Planck Institute for Nuclear Physics in Heidelberg. I am interested in quantum optics and photonics both on the theoretical and on the experimental side.
+I am a [Georg H. Endress postdoctoral fellow](https://www.quantum.unibas.ch/g-h-e-postdoc-cluster/) working in the [Quantum Optics and Statistics group](https://www.quantum.uni-freiburg.de/) of [Andreas Buchleitner](https://www.frias.uni-freiburg.de/en/people/fellows/current-fellows/buchleitner) at the University of Freiburg. I am interested in quantum optics and photonics, both on the theoretical and on the experimental side.
 
-# In my current research, I mainly develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.
+Previously, I was a PhD student in the [quantum dynamics group](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/correlated-and-x-ray-quantum-dynamics) of [Jörg Evers](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/people/joerg-evers) in the [theory division](https://www.mpi-hd.mpg.de/keitel/) led by [Christoph H. Keitel](https://www.mpi-hd.mpg.de/mpi/en/forschung/abteilungen-und-gruppen/theoretische-quantendynamik-und-quantenelektrodynamik/people/christoph-h-keitel-director) at the Max Planck Institute for Nuclear Physics in Heidelberg.
 
-# In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as new platforms.
+[//]: # (In my current research, I mainly develop theoretical tools for open quantum systems with a special emphasis on the "high energy frontier" of quantum optics: the quest to use hard X-ray photons for studying novel quantum phenomena and, vice versa, to improve applications of X-rays by quantum optical methods.)
+
+[//]: # (In parallel, I also contribute to and perform experiments at large-scale X-ray facilities to establish X-ray quantum optics and nuclear cavity QED as new platforms.)
 
