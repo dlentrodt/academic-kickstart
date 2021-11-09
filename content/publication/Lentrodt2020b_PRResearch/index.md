@@ -5,23 +5,23 @@ authors:
 - Kilian P. Heeg
 - Christoph H. Keitel
 - Jörg Evers
-date: "2020-03-30T00:00:00Z"
-doi: ""
+date: "2020-06-24T00:00:00Z"
+doi: "10.1103/PhysRevResearch.2.023396"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "20120-04-19T00:00:00Z"
+publishDate: "20120-06-24T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*submitted*"
+publication: "*Physical Review Research* **2**, 023396"
 publication_short: ""
 
-abstract: We develop two ab initio quantum approaches to thin-film x-ray cavity quantum electrodynamics with spectrally narrow x-ray resonances, such as those provided by Mössbauer nuclei. The first method is based on a few-mode description of the cavity, and promotes and extends existing phenomenological few-mode models to an ab initio theory. The second approach uses analytically-known Green's functions to model the system. The two approaches not only enable one to ab initio derive the effective few-level scheme representing the cavity and the nuclei in the low-excitation regime, but also provide a direct avenue for studies at higher excitation, involving non-linear or quantum phenomena. The ab initio character of our approaches further enables direct optimizations of the cavity structure and thus of the photonic environment of the nuclei, to tailor the effective quantum optical level scheme towards particular applications. To illustrate the power of the ab initio approaches, we extend the established quantum optical modeling to resonant cavity layers of arbitrary thickness, which is essential to achieve quantitative agreement for cavities used in recent experiments. Further, we consider multi-layer cavities featuring electromagnetically induced transparency, derive their quantum optical few-level systems ab initio, and identify the origin of discrepancies in the modeling found previously using phenomenological approaches as arising from cavity field gradients across the resonant layers. 
+abstract: We develop two ab initio quantum approaches to thin-film x-ray cavity quantum electrodynamics with spectrally narrow x-ray resonances, such as those provided by Mössbauer nuclei. The first method is based on a few-mode description of the cavity, and promotes and extends existing phenomenological few-mode models to an ab initio theory. The second approach uses analytically known Green's functions to model the system. The two approaches not only enable one to ab initio derive the effective few-level scheme representing the cavity and the nuclei in the low-excitation regime, but also provide a direct avenue for studies at higher excitation, involving nonlinear or quantum phenomena. The ab initio character of our approaches further enables direct optimizations of the cavity structure and thus of the photonic environment of the nuclei, to tailor the effective quantum optical level scheme towards particular applications. To illustrate the power of the ab initio approaches, we extend the established quantum optical modeling to resonant cavity layers of arbitrary thickness, which is essential to achieve quantitative agreement for cavities used in recent experiments. Further, we consider multilayer cavities featuring electromagnetically induced transparency, derive their quantum optical few-level systems ab initio, and identify the origin of discrepancies in the modeling found previously using phenomenological approaches as arising from cavity field gradients across the resonant layers.
 
 # Summary. An optional shortened abstract.
 summary: In this paper we develop and improve theoretical approaches to X-ray cavity QED, setting the stage for investigations of non-linear and correlated quantum phenomena in this platform.
@@ -31,6 +31,8 @@ tags:
 featured: false
 
 links:
+- name: Journal
+  url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.011008
 - name: arXiv
   url: https://arxiv.org/abs/2003.13859
 url_pdf: ''

@@ -33,7 +33,7 @@ featured: true
 
 links:
 - name: Journal
-  url: https://journals.aps.org/prx/abstract/10.1103/PhysRevX.10.011008
+  url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023396
 - name: arXiv
   url: https://arxiv.org/abs/1812.08556
 url_pdf: ''
@@ -48,7 +48,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'How can we get a few modes from a continuum?'
+  caption: ''
   focal_point: "center"
   preview_only: false
 
