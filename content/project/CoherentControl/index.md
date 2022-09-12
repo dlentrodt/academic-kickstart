@@ -1,6 +1,6 @@
 ---
 title: Coherent control with X-rays
-summary: Large scale facility experiments on how to coherently control X-rays and nuclei. <a href='https://www.mpi-hd.mpg.de/personalhomes/lentrodt/project/coherentcontrol/'><b>more...</b></a>
+summary: Large scale facility experiments on how to coherently control X-rays and nuclei. <a href='https://dlentrodt.github.io/project/coherentcontrol/'><b>more...</b></a>
 tags:
 - Experiment
 date: "2020-04-16T00:00:00Z"
