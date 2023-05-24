@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:dominik.lentrodt@mpi-hd.mpg.de"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:dominik@lentrodt.com"  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DLentrodt
