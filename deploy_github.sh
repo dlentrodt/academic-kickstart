@@ -1,12 +1,23 @@
 #!/bin/bash
+set -euo pipefail
 
-hugo
+ROOT="$(cd "$(dirname "$0")" && pwd)"
+cd "$ROOT"
 
-cd ..
+cd ../dlentrodt.github.io
 
-cd dlentrodt.github.io
-
-cp -av ../academic_website/public/* .
+rsync -av --delete \
+  --exclude '.git' \
+  --exclude '.gitignore' \
+  --exclude '.editorconfig' \
+  --exclude '.DS_Store' \
+  --exclude 'README.md' \
+  --exclude 'LICENSE.md' \
+  --exclude 'deploy_github.sh' \
+  --exclude 'view.sh' \
+  --exclude 'copy_cv.sh' \
+  --exclude 'netlify.toml' \
+  "$ROOT"/ ./
 
 git add -A
 
@@ -15,6 +26,6 @@ git commit -m "$msg"
 
 git push origin master
 
-cd ../academic_website
+cd "$ROOT"
 
 ### use personal token for github login!!!

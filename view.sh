@@ -1,3 +1,4 @@
-#!/usr/bin/env bash
-
-hugo server
+#!/bin/bash
+set -euo pipefail
+cd "$(dirname "$0")"
+exec python3 -m http.server 1313
