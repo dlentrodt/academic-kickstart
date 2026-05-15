@@ -16,3 +16,5 @@ git commit -m "$msg"
 git push origin master
 
 cd ../academic_website
+
+### use personal token for github login!!!

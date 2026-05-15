@@ -49,15 +49,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:dominik@lentrodt.com"  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/DLentrodt
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/DLentrodt
+  link: https://www.linkedin.com/in/dominik-lentrodt-4567502b7/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=_l-iYhkAAAAJ&hl=en
-# - icon: github
-#   icon_pack: fab
-#   link: https://github.com/dlentrodt
+- icon: github
+  icon_pack: fab
+  link: https://github.com/dlentrodt
 - icon: arxiv
   icon_pack: ai
   link: https://arxiv.org/a/lentrodt_d_1.html
